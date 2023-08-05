@@ -6,5 +6,3 @@ Pillow==10.0.0
 plotly==5.9.0
 seaborn==0.12.2
 streamlit==1.24.1
-seborn==0.12.2
-plotly
