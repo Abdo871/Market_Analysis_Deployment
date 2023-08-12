@@ -50,7 +50,7 @@ def wrangle(file):
     
     return df
 
-df = wrangle('D:/My_Project/Market Analysis and Revenue Optimization/SalesForCourse_quizz_table/SalesForCourse_quizz_table.csv')
+df = wrangle('SalesForCourse_quizz_table.csv')
 
 
 
