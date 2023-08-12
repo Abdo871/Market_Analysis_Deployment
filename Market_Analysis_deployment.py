@@ -58,7 +58,7 @@ df = wrangle('SalesForCourse_quizz_table.csv')
 st.markdown("<h1 style='text-align: center; color:blue;'>Market Analysis and Revenue Optimization</h1>", unsafe_allow_html=True)
 
 # Load the image from file
-image = Image.open('D:/My_Project/Market Analysis and Revenue Optimization/SalesForCourse_quizz_table/amazondatanalysis-1024x497.jpg')
+image = Image.open('amazondatanalysis-1024x497.jpg')
 
 # Display the image
 st.image(image, caption='Optional image caption', use_column_width=True)
